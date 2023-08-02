@@ -3,8 +3,6 @@
 <h3 align="center">A Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif"/>
 
-- 🔭 I’m currently working on [Ticombo](https://www.ticombo.com/en)
-
 - 🌱 I’m currently learning **Stripe, AWS**
 
 - 👨‍💻 All of my projects are available at [www.vishmish.in](www.vishmish.in)
@@ -12,8 +10,6 @@
 - 💬 Ask me about **Angular, React, Node.js, Java, Spring Boot, Mongoose, SQL**
 
 - 📫 How to reach me **vishalmishraofficial95@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/125bLUcxhTTeSfLLzSsNXwUg4oFYLhmpc/view?usp=sharing](https://drive.google.com/file/d/125bLUcxhTTeSfLLzSsNXwUg4oFYLhmpc/view?usp=sharing)
 
 - ⚡ Fun fact **I play guitar and have a youtube channel**
 
