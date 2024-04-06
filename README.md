@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.vishmish.in](www.vishmish.in)
 
-- 💬 Ask me about **Angular, React, Node.js, Java, Spring Boot, Mongoose, SQL**
+- 💬 Ask me about **Angular, React, Node.js, Java, Spring Boot, Mongoose, SQL, Stripe, Checkout & Axcess**
 
 - 📫 How to reach me **vishalmishraofficial95@gmail.com**
 
